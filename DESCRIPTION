@@ -1,0 +1,11 @@
+Package: ggpub
+Type: Package
+Title: Creat plots for publication
+Version: 0.0.1
+Author: Zhonghui Gai
+Maintainer: ZhonghuiGai <zhgai@aliyun.com>
+Description: Creat most commonly used plots using ggplot2, usually bar and box plots.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
